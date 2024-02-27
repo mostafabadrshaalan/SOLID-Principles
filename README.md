@@ -29,11 +29,6 @@ We welcome contributions from the community! Whether it's adding new examples, r
 - **Fork the Repository**: Make your own copy to work on.
 - **Create a Pull Request**: Submit your improvements for review.
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for more detailed instructions.
-
-## License
-
-This project is licensed under the [LICENSE NAME] - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
