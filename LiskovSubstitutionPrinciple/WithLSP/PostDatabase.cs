@@ -3,12 +3,12 @@
     public class PostDatabase
     {
         public string CreateOriginalPost(string post)
-            => $"Original Post: {post}";
+            => $"Original post: {post}";
 
         public string CreateTagPost(string post)
-            => $"#Tag Post: {post}";
+            => $"#tag post: {post}";
 
         public string CreateMentionPost(string post)
-            => $"@Mention Post: {post}";
+            => $"@mention post: {post}";
     }
 }

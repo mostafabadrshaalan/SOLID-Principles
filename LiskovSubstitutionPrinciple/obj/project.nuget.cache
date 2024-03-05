@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXSNLBT8ECVm7uN9u7a+giw0OlBV7a6B1vZrOYLuqXrVBun5DarR20cpInoawlqfyFUw+i+6b5SPprL6FUkJTg==",
+  "dgSpecHash": "L6jzJgENdxjlezgndc547ivVBP5C9dnJT741/CgtP+Ea5NlpvIH6VQf1H7LijAaNLBsGB6q1in36I1ax7wnDNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+  "projectFilePath": "D:\\Me\\Programming\\GitHub\\SOLIDPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

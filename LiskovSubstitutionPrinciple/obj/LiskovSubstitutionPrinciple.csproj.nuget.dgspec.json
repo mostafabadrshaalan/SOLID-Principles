@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {}
+    "D:\\Me\\Programming\\GitHub\\SOLIDPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {
+    "D:\\Me\\Programming\\GitHub\\SOLIDPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+        "projectUniqueName": "D:\\Me\\Programming\\GitHub\\SOLIDPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
         "projectName": "LiskovSubstitutionPrinciple",
-        "projectPath": "C:\\Users\\USER\\Desktop\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+        "projectPath": "D:\\Me\\Programming\\GitHub\\SOLIDPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\SolidPrinciples\\LiskovSubstitutionPrinciple\\obj\\",
+        "outputPath": "D:\\Me\\Programming\\GitHub\\SOLIDPrinciples\\LiskovSubstitutionPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
